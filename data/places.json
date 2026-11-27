@@ -1,0 +1,1790 @@
+[
+ {
+  "cat": "food",
+  "name_en": "Jia Jia Tang Bao",
+  "branch": "황허루 90호 본점",
+  "hours": "09:00 오픈",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "점심 피크 15~30분, 오전 일찍 가면 짧음",
+  "duration_min": 45,
+  "tips": "인기 메뉴는 오후에 품절되기도 함. 황허루 미식거리와 묶기",
+  "sources": [
+   "https://www.google.com/maps/search/Jia%20Jia%20Tang%20Bao%20Shanghai",
+   "https://suyakaya.tistory.com/210"
+  ],
+  "id": "f01",
+  "sub": "샤오롱바오",
+  "name_ko": "자자탕바오(가가탕포)",
+  "name_zh": "佳家汤包",
+  "area": "인민광장",
+  "oneliner": "구글 리뷰 1,200개+ 상하이 대표 탕바오집",
+  "must_order": [
+   "게살돼지고기 탕바오",
+   "파기름 비빔면",
+   "게살국수"
+  ],
+  "price_cny": "40~100",
+  "rating": {
+   "google": "4.3 (1,231)"
+  },
+  "evidence": "구글 1,231리뷰, 한국 블로그 단골 코스(황허루)",
+  "lat": 31.234577,
+  "lng": 121.470821,
+  "photo": "photos/gen_food1.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Qiao Ai Lai Lai Xiao Long (Lailai Snack Dumpling)",
+  "branch": "톈진루 504호(난징동루 뒤)",
+  "hours": "08:00~14:00, 15:00~20:00(블로그 기준)",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "오픈 전부터 줄, 회전 빨라 약 20분",
+  "duration_min": 40,
+  "tips": "생강채 식초는 별도 주문(1위안). 아침 첫 끼로 추천",
+  "sources": [
+   "https://www.google.com/maps/search/Lailai%20Snack%20Dumpling%20Shanghai",
+   "https://guide.michelin.com/en/cn/shanghai-municipality/shanghai/restaurants/bib-gourmand",
+   "https://m.blog.naver.com/nyam_theworld/223738253663",
+   "https://m.blog.naver.com/jadore_yoon/223814952767"
+  ],
+  "id": "f02",
+  "sub": "샤오롱바오",
+  "name_ko": "라이라이샤오롱",
+  "name_zh": "莱莱小笼",
+  "area": "와이탄·난징동루",
+  "oneliner": "미쉐린 빕구르망 게살 샤오롱바오, 오픈런 맛집",
+  "must_order": [
+   "게살돼지고기 샤오롱바오",
+   "게살송이버섯 샤오롱바오",
+   "훈툰"
+  ],
+  "price_cny": "30~70",
+  "rating": {
+   "google": "4.4 (559)",
+   "other": "Michelin Bib Gourmand"
+  },
+  "evidence": "미쉐린 빕구르망 + 구글 559리뷰 + 한국 블로그 다수 \"또 가고 싶은 집\"",
+  "lat": 31.236185,
+  "lng": 121.477313,
+  "photo": "photos/gen_food1.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Nanxiang Steamed Bun",
+  "branch": "예원 본점(위위안 연못 앞)",
+  "hours": "",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "1층 테이크아웃 줄 김, 2~3층 착석은 비싸지만 빠름",
+  "duration_min": 45,
+  "tips": "관광지 가격·평점 3.8로 맛 자체는 호불호. 예원 관광 겸 1번만",
+  "sources": [
+   "https://www.google.com/maps/search/%E5%8D%97%E7%BF%94%E9%A6%92%E5%A4%B4%E5%BA%97%20%E8%B1%AB%E5%9B%AD",
+   "https://guide.michelin.com/en/cn/shanghai-municipality/shanghai/restaurants/bib-gourmand",
+   "https://m.blog.naver.com/PostView.naver?blogId=ppugiya&logNo=223786164085"
+  ],
+  "id": "f03",
+  "sub": "샤오롱바오",
+  "name_ko": "난샹만터우뎬(남상만두점)",
+  "name_zh": "南翔馒头店",
+  "area": "예원",
+  "oneliner": "예원 원조 샤오롱바오, 미쉐린 빕구르망",
+  "must_order": [
+   "게살 샤오롱바오",
+   "돼지고기 샤오롱바오"
+  ],
+  "price_cny": "50~120",
+  "rating": {
+   "google": "3.8 (759)",
+   "other": "Michelin Bib Gourmand"
+  },
+  "evidence": "미쉐린 빕구르망 + 구글 759리뷰, 한국 상하이 맛집 리스트 단골",
+  "lat": 31.2267213,
+  "lng": 121.4915495,
+  "photo": "photos/gen_food1.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Yang's Fried-Dumpling",
+  "branch": "닝보루 178호점(난징동루 인근), 시내 곳곳",
+  "hours": "~21:00",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "거의 없음, QR 주문",
+  "duration_min": 30,
+  "tips": "육즙 뜨거우니 살짝 물어 구멍 내고 먹기",
+  "sources": [
+   "https://www.google.com/maps/search/Yang's%20Fried%20Dumpling%20Ningbo%20Road%20Shanghai",
+   "https://m.blog.naver.com/PostView.naver?blogId=ppugiya&logNo=223786164085"
+  ],
+  "id": "f04",
+  "sub": "셩지엔",
+  "name_ko": "샤오양셩지엔(양스덤플링)",
+  "name_zh": "小杨生煎",
+  "area": "와이탄·난징동루",
+  "oneliner": "바닥 바삭 육즙 폭발 셩지엔빠오 대표 체인",
+  "must_order": [
+   "셩지엔(새우·돼지고기)",
+   "우육 당면탕"
+  ],
+  "price_cny": "20~40",
+  "rating": {
+   "google": "4.4 (406)"
+  },
+  "evidence": "구글 406리뷰(닝보루점), 한국 블로그 상하이 필수 리스트 상위",
+  "lat": 31.2392629,
+  "lng": 121.4836005,
+  "photo": "photos/gen_food2.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Dahuchun",
+  "branch": "쓰촨중루(四川南路 11호) 본점",
+  "hours": "~21:00",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "아침·점심 짧은 줄",
+  "duration_min": 30,
+  "tips": "샤오양과 비교 시식 추천(피 스타일이 다름)",
+  "sources": [
+   "https://www.google.com/maps/search/Dahuchun%20Sichuan%20Road%20Shanghai"
+  ],
+  "id": "f05",
+  "sub": "셩지엔",
+  "name_ko": "다후춘",
+  "name_zh": "大壶春",
+  "area": "와이탄·난징동루",
+  "oneliner": "1932년 노포, 두툼한 발효피 셩지엔 원조파",
+  "must_order": [
+   "셩지엔",
+   "우육탕"
+  ],
+  "price_cny": "20~40",
+  "rating": {
+   "google": "4.3 (205)"
+  },
+  "evidence": "구글 205리뷰, 상하이 셩지엔 양대 노포",
+  "lat": 31.231913,
+  "lng": 121.490477,
+  "photo": "photos/gen_food2.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Jesse (Lao Ji Shi)",
+  "branch": "싱예타이구후이(兴业太古汇) L2 지점 권장 / 톈핑루 원조점은 구글 3.5",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "저녁 대기 길어 따종디엔핑 줄서기/예약",
+  "duration_min": 90,
+  "tips": "3인이면 4~5요리. 달고 기름진 맛이라 채소 1개 추가",
+  "sources": [
+   "https://www.google.com/maps/search/Laojishi%20%E7%9F%B3%E9%97%A8%E4%B8%80%E8%B7%AF288%20Shanghai",
+   "https://www.google.com/maps/search/Jesse%20restaurant%20Tianping%20Road"
+  ],
+  "id": "f06",
+  "sub": "본방차이",
+  "name_ko": "라오지스",
+  "name_zh": "老吉士",
+  "area": "징안사",
+  "oneliner": "홍샤오러우·대추찰밥 등 정통 본방차이 명가",
+  "must_order": [
+   "홍샤오러우(동파육 스타일)",
+   "총유 생선(葱烤鲫鱼)",
+   "대추 찹쌀(心太软)"
+  ],
+  "price_cny": "150~250",
+  "rating": {
+   "google": "4.6 (38) 타이구후이점 / 3.5 (98) 톈핑루점"
+  },
+  "evidence": "상하이 본방차이 대표 브랜드로 한국 블로그 필수 맛집 단골, 타이구후이점 구글 4.6",
+  "lat": 31.22833,
+  "lng": 121.46323,
+  "photo": "photos/gen_food4.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Lan Xin (Jinxian Road)",
+  "branch": "진셴루 130호",
+  "hours": "10:00 오픈",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "좁은 가게라 피크 30분+",
+  "duration_min": 75,
+  "tips": "오픈 직후 방문 추천, 현금·알리페이 준비",
+  "sources": [
+   "https://www.google.com/maps/search/Lanxin%20Restaurant%20Jinxian%20Road",
+   "https://guide.michelin.com/en/cn/shanghai-municipality/shanghai/restaurants/bib-gourmand",
+   "https://m.blog.naver.com/nyam_theworld/223738253663"
+  ],
+  "id": "f07",
+  "sub": "본방차이",
+  "name_ko": "란신찬팅",
+  "name_zh": "兰心餐厅",
+  "area": "신톈디·화이하이루",
+  "oneliner": "미쉐린 빕구르망 작은 노포 상하이 가정식",
+  "must_order": [
+   "홍샤오러우",
+   "유폭하(油爆虾)",
+   "총유 생선"
+  ],
+  "price_cny": "100~150",
+  "rating": {
+   "google": "4.1 (71)",
+   "other": "Michelin Bib Gourmand"
+  },
+  "evidence": "미쉐린 빕구르망 + 한국 블로그 빕구르망 맛집 소개",
+  "lat": 31.221671,
+  "lng": 121.459856,
+  "photo": "photos/gen_food4.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Guang Ming Cun",
+  "branch": "화이하이중루 588호",
+  "hours": "",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "테이크아웃 줄 10~40분",
+  "duration_min": 30,
+  "tips": "식당보다 1층 포장 월병이 핵심. 화이하이루 산책 중 간식",
+  "sources": [
+   "https://www.google.com/maps/search/Guangming%20Cun%20Huaihai%20Road%20Shanghai"
+  ],
+  "id": "f08",
+  "sub": "본방차이",
+  "name_ko": "광밍춘",
+  "name_zh": "光明邨大酒家",
+  "area": "신톈디·화이하이루",
+  "oneliner": "줄 서서 사는 고기 월병(鲜肉月饼)의 성지",
+  "must_order": [
+   "선러우 월병(鲜肉月饼)",
+   "훈툰"
+  ],
+  "price_cny": "20~80",
+  "rating": {
+   "google": "4.3 (71)"
+  },
+  "evidence": "상하이 현지인 줄서기 명물 노포, 구글 4.3",
+  "lat": 31.2205026,
+  "lng": 121.4675643,
+  "photo": "photos/gen_food4.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Shanghai Lao Fan Dian",
+  "branch": "예원 본점",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "점심 단체 많음",
+  "duration_min": 90,
+  "tips": "관광지 가격. 예원 일정과 묶을 때만",
+  "sources": [
+   "https://www.google.com/maps/search/%E4%B8%8A%E6%B5%B7%E8%80%81%E9%A5%AD%E5%BA%97%20%E8%B1%AB%E5%9B%AD"
+  ],
+  "id": "f09",
+  "sub": "본방차이",
+  "name_ko": "상하이라오판뎬",
+  "name_zh": "上海老饭店",
+  "area": "예원",
+  "oneliner": "1875년 창업, 예원 안 정통 본방차이 노포",
+  "must_order": [
+   "팔보오리(八宝鸭)",
+   "홍샤오러우",
+   "새우볶음(清炒虾仁)"
+  ],
+  "price_cny": "200~350",
+  "rating": {
+   "google": "4.1 (118)"
+  },
+  "evidence": "150년 노포, 구글 118리뷰",
+  "lat": 31.227672,
+  "lng": 121.490738,
+  "photo": "photos/gen_food4.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Fu 1088",
+  "branch": "전닝루 375호 양옥",
+  "hours": "",
+  "closed": "",
+  "reservation": "필수",
+  "queue": "예약제",
+  "duration_min": 120,
+  "tips": "최소 소비 있음. 특별한 저녁 1회용",
+  "sources": [
+   "https://www.google.com/maps/search/Fu%201088%20Shanghai"
+  ],
+  "id": "f10",
+  "sub": "본방차이",
+  "name_ko": "푸1088",
+  "name_zh": "福1088",
+  "area": "기타",
+  "oneliner": "1930년대 양옥 룸에서 먹는 고급 상하이요리",
+  "must_order": [
+   "훈제생선(熏鱼)",
+   "홍샤오러우",
+   "게살두부"
+  ],
+  "price_cny": "400~600",
+  "rating": {
+   "google": "4.3 (96)"
+  },
+  "evidence": "구글 96리뷰, 외국인 대상 고급 본방차이 대표",
+  "lat": 31.2219363,
+  "lng": 121.4358949,
+  "photo": "photos/gen_food4.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Shanghai Grandmother Restaurant",
+  "branch": "푸저우루 70호점",
+  "hours": "11:00~22:00",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "따종디엔핑 원격 줄서기 가능",
+  "duration_min": 60,
+  "tips": "호불호 있음. 와이탄 야경 전 무난한 저녁용",
+  "sources": [
+   "https://www.google.com/maps/search/Shanghai%20Grandmother%20Restaurant%20Fuzhou%20Road",
+   "https://mkyungs2.tistory.com/100"
+  ],
+  "id": "f11",
+  "sub": "본방차이",
+  "name_ko": "상하이 그랜드마더(라오라오)",
+  "name_zh": "上海姥姥家常饭馆",
+  "area": "와이탄·난징동루",
+  "oneliner": "와이탄 옆 가성비 중국 가정식, 한국인 다수",
+  "must_order": [
+   "홍샤오러우",
+   "꿔바로우",
+   "마파두부"
+  ],
+  "price_cny": "60~100",
+  "rating": {
+   "google": "4.0 (874)"
+  },
+  "evidence": "구글 874리뷰, 한국 블로그 다수 언급(일부 \"비추\" 후기도)",
+  "lat": 31.23578,
+  "lng": 121.48247,
+  "photo": "photos/gen_food4.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Haidilao Hot Pot",
+  "branch": "난징동루 830호 제일백화점 5층",
+  "hours": "11:00 오픈(지점별 24시간)",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "저녁 피크 30~60분, 앱 원격 줄서기",
+  "duration_min": 90,
+  "tips": "한국보다 저렴. 같은 건물에 헌지우이치엔 양꼬치",
+  "sources": [
+   "https://www.google.com/maps/search/%E6%B5%B7%E5%BA%95%E6%8D%9E%20%E5%8D%97%E4%BA%AC%E4%B8%9C%E8%B7%AF%20%E7%AC%AC%E4%B8%80%E7%99%BE%E8%B4%A7",
+   "https://m.blog.naver.com/PostView.naver?blogId=ppugiya&logNo=223786164085"
+  ],
+  "id": "f12",
+  "sub": "훠궈",
+  "name_ko": "하이디라오",
+  "name_zh": "海底捞",
+  "area": "와이탄·난징동루",
+  "oneliner": "서비스·소스바 완벽, 실패 없는 훠궈",
+  "must_order": [
+   "원앙탕(마라+토마토)",
+   "소고기·새우완자",
+   "라오몐(面) 쇼"
+  ],
+  "price_cny": "120~180",
+  "rating": {
+   "google": "4.4 (162)"
+  },
+  "evidence": "구글 4.4(162), 한국 블로그 상하이 필수 리스트",
+  "lat": 31.2355779,
+  "lng": 121.4747182,
+  "photo": "photos/gen_food3.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "Chongqing Gaolaojiu Hot Pot",
+  "branch": "주장루 399호 2층",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "저녁 대기, 앱 줄서기",
+  "duration_min": 90,
+  "tips": "맵기 단계 微辣부터. 과일 셀프바 있음",
+  "sources": [
+   "https://www.google.com/maps/search/Chongqing%20Gaolaojiu%20Hot%20Pot%20Jiujiang%20Road%20Shanghai",
+   "https://m.blog.naver.com/jadore_yoon/223814952767"
+  ],
+  "id": "f13",
+  "sub": "훠궈",
+  "name_ko": "가오라오지우 충칭훠궈",
+  "name_zh": "高老九重庆火锅",
+  "area": "와이탄·난징동루",
+  "oneliner": "현지 충칭식 훠궈 삼대장, 하이디라오보다 깊은 맛",
+  "must_order": [
+   "소기름 마라탕",
+   "마오두(毛肚)",
+   "오리창자",
+   "개구리"
+  ],
+  "price_cny": "120~200",
+  "rating": {
+   "google": "4.6 (132)"
+  },
+  "evidence": "구글 4.6(132), 한국 블로그 \"상하이 훠궈 삼대장\"",
+  "lat": 31.235719,
+  "lng": 121.482468,
+  "photo": "photos/gen_food3.jpg",
+  "photoGeneric": true
+ },
+ {
+  "cat": "food",
+  "name_en": "A Niang Mian Guan",
+  "branch": "쓰난루 36호",
+  "hours": "",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "점심 20~30분",
+  "duration_min": 40,
+  "tips": "쓰난공관·톈쯔팡 산책과 묶기",
+  "sources": [
+   "https://www.google.com/maps/search/%E9%98%BF%E5%A8%98%E9%9D%A2%E9%A6%86%20%E6%80%9D%E5%8D%97%E8%B7%AF",
+   "https://m.blog.naver.com/nyam_theworld/223738253663"
+  ],
+  "id": "f14",
+  "sub": "국수",
+  "name_ko": "아냥미엔관",
+  "name_zh": "阿娘面馆",
+  "area": "신톈디·화이하이루",
+  "oneliner": "황어(조기) 국수 하나로 유명한 노포 국숫집",
+  "must_order": [
+   "황어면(黄鱼面)",
+   "돼지갈비 국수"
+  ],
+  "price_cny": "40~80",
+  "rating": {
+   "google": "4.0 (73)"
+  },
+  "evidence": "구글 73리뷰, 한국 블로그 상하이 국수 맛집 단골 (미쉐린 공식 목록에서는 확인 안 됨)",
+  "lat": 31.2176081,
+  "lng": 121.4664896
+ },
+ {
+  "cat": "food",
+  "name_en": "Rongjia Noodles Soup with Yellow Croaker (Jingan)",
+  "branch": "징안 지점(난징시루 인근)",
+  "hours": "",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "점심 피크 대기",
+  "duration_min": 40,
+  "tips": "구글 표기 Rong Shu Huang Yu Mian, 리뷰 수 적음(중국 내 구글 제한)",
+  "sources": [
+   "https://www.google.com/maps/search/%E8%8D%A3%E5%AE%B6%E9%BB%84%E9%B1%BC%E9%9D%A2%20%E4%B8%8A%E6%B5%B7%20%E9%9D%99%E5%AE%89",
+   "https://guide.michelin.com/en/cn/shanghai-municipality/shanghai/restaurants/bib-gourmand"
+  ],
+  "id": "f15",
+  "sub": "국수",
+  "name_ko": "룽자 황어면",
+  "name_zh": "荣家黄鱼面",
+  "area": "징안사",
+  "oneliner": "미쉐린 빕구르망 진한 황어 국물 국수",
+  "must_order": [
+   "황어면",
+   "황어 튀김"
+  ],
+  "price_cny": "60~120",
+  "rating": {
+   "google": "4.5 (15)",
+   "other": "Michelin Bib Gourmand"
+  },
+  "evidence": "미쉐린 빕구르망(징안점), 구글 4.5",
+  "lat": 31.23192,
+  "lng": 121.46432
+ },
+ {
+  "cat": "food",
+  "name_en": "Lao Di Fang Mian Guan",
+  "branch": "샹양난루 233호 / 푸싱중루점",
+  "hours": "",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "점심 로컬 대기 10~20분",
+  "duration_min": 30,
+  "tips": "지점 2곳 위치 확인 필요. 우캉루 산책 전 아침/점심",
+  "sources": [
+   "https://www.google.com/maps/search/%E8%80%81%E5%9C%B0%E6%96%B9%E9%9D%A2%E9%A6%86%20%E4%B8%8A%E6%B5%B7",
+   "https://guide.michelin.com/en/cn/shanghai-municipality/shanghai/restaurants/bib-gourmand"
+  ],
+  "id": "f16",
+  "sub": "국수",
+  "name_ko": "라오디팡 미엔관",
+  "name_zh": "老地方面馆",
+  "area": "프랑스조계·우캉루",
+  "oneliner": "미쉐린 빕구르망 파기름 비빔면(葱油拌面) 로컬집",
+  "must_order": [
+   "총유반면(葱油拌面)",
+   "대배(大排) 돼지갈비 토핑"
+  ],
+  "price_cny": "20~50",
+  "rating": {
+   "google": "4.8 (6)",
+   "other": "Michelin Bib Gourmand"
+  },
+  "evidence": "미쉐린 빕구르망 국수집, 구글 리뷰는 적음",
+  "lat": 31.211058,
+  "lng": 121.457664
+ },
+ {
+  "cat": "food",
+  "name_en": "Ho Hung Kee",
+  "branch": "싱예타이구후이 L3",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "주말 점심 대기",
+  "duration_min": 60,
+  "tips": "라오지스와 같은 몰(타이구후이)",
+  "sources": [
+   "https://www.google.com/maps/search/Ho%20Hung%20Kee%20Shanghai%20Taikoo%20Hui",
+   "https://guide.michelin.com/en/cn/shanghai-municipality/shanghai/restaurants/bib-gourmand",
+   "https://blahblahmin.tistory.com/4"
+  ],
+  "id": "f17",
+  "sub": "딤섬",
+  "name_ko": "호흥키(허훙지)",
+  "name_zh": "何洪记",
+  "area": "징안사",
+  "oneliner": "홍콩 미쉐린 완탕면집, 상하이도 빕구르망",
+  "must_order": [
+   "새우완탕면",
+   "하가우",
+   "죽(粥)"
+  ],
+  "price_cny": "80~150",
+  "rating": {
+   "google": "4.5 (14)",
+   "other": "Michelin Bib Gourmand (Shanghai)"
+  },
+  "evidence": "미쉐린 빕구르망 + 한국 블로그 딤섬 추천",
+  "lat": 31.22833,
+  "lng": 121.46323
+ },
+ {
+  "cat": "food",
+  "name_en": "Taotaoju",
+  "branch": "난징시루 2~68호 뉴월드시티 7층",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "주말 점심 대기",
+  "duration_min": 75,
+  "tips": "같은 건물에 샤오다둥(오리)",
+  "sources": [
+   "https://www.google.com/maps/search/Taotaoju%20Nanjing%20West%20Road%20New%20World%20City%20Shanghai"
+  ],
+  "id": "f18",
+  "sub": "딤섬",
+  "name_ko": "타오타오쥐",
+  "name_zh": "陶陶居",
+  "area": "인민광장",
+  "oneliner": "광저우 100년 노포 딤섬, 상하이 구글 4.6",
+  "must_order": [
+   "하가우",
+   "차슈바오",
+   "홍미창펀",
+   "광둥식 거위구이"
+  ],
+  "price_cny": "100~150",
+  "rating": {
+   "google": "4.6 (124)"
+  },
+  "evidence": "구글 4.6(124), 인민광장 바로 앞",
+  "lat": 31.23453,
+  "lng": 121.47326
+ },
+ {
+  "cat": "food",
+  "name_en": "Xiao Dadong (Nanjing West Rd)",
+  "branch": "난징시루 뉴월드시티점 / 쉬자후이점",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "저녁 예약 권장",
+  "duration_min": 90,
+  "tips": "3인 오리 1마리 + 요리 2~3개",
+  "sources": [
+   "https://www.google.com/maps/search/Xiao%20Dadong%20Nanjing%20West%20Rd%20Shanghai"
+  ],
+  "id": "f20",
+  "sub": "오리",
+  "name_ko": "샤오다둥(소대동)",
+  "name_zh": "小大董",
+  "area": "인민광장",
+  "oneliner": "베이징 다둥 계열 카오야, 구글 4.8",
+  "must_order": [
+   "베이징 카오야",
+   "오리껍질+설탕",
+   "총소해삼"
+  ],
+  "price_cny": "150~250",
+  "rating": {
+   "google": "4.8 (56)"
+  },
+  "evidence": "구글 4.8(56), \"껍질이 녹는다\" 리뷰",
+  "lat": 31.23453,
+  "lng": 121.47326
+ },
+ {
+  "cat": "food",
+  "name_en": "Ye Shanghai",
+  "branch": "난징동루 299호점(구글 4.4) 또는 신톈디 황피난루 338호(구글 3.7)",
+  "hours": "",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "예약 없으면 합석·대기",
+  "duration_min": 90,
+  "tips": "신톈디점은 평점 낮음 → 난징동루점 우선",
+  "sources": [
+   "https://www.google.com/maps/search/Ye%20Shanghai%20Nanjing%20Road%20East",
+   "https://view42.tistory.com/1643",
+   "https://m.blog.naver.com/PostView.naver?blogId=ppugiya&logNo=223786164085"
+  ],
+  "id": "f21",
+  "sub": "오리",
+  "name_ko": "예상하이",
+  "name_zh": "夜上海",
+  "area": "와이탄·난징동루",
+  "oneliner": "한국인 최다 방문 북경오리, 캐비어 오리껍질",
+  "must_order": [
+   "북경오리",
+   "오리껍질 캐비어",
+   "오이무침"
+  ],
+  "price_cny": "200~300",
+  "rating": {
+   "google": "4.4 (37) 난징동루 / 3.7 (148) 신톈디",
+   "other": "한국 블로그상 미쉐린 언급"
+  },
+  "evidence": "한국 블로그 상하이 필수 리스트 다수(오리 맛집)",
+  "lat": 31.2372526,
+  "lng": 121.4844387
+ },
+ {
+  "cat": "food",
+  "name_en": "Long Time Ago Mutton Chuan",
+  "branch": "난징동루 제일백화점점(한국인 최다) / 다푸루점·창리루점",
+  "hours": "심야까지",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "저녁 1~2시간 대기, 위챗·앱 사전 줄서기 필수",
+  "duration_min": 90,
+  "tips": "좌표는 제일백화점 건물 기준(지점 층 확인 필요). 2시간 전 원격 줄서기",
+  "sources": [
+   "https://www.google.com/maps/search/Long%20Time%20Ago%20Mutton%20Chuan%20Shanghai",
+   "https://view42.tistory.com/1643",
+   "https://m.blog.naver.com/jadore_yoon/223814952767"
+  ],
+  "id": "f24",
+  "sub": "야식·꼬치",
+  "name_ko": "헌지우이치엔 양꼬치",
+  "name_zh": "很久以前羊肉串",
+  "area": "와이탄·난징동루",
+  "oneliner": "한국인 상하이 양꼬치 1순위, 직접 구워줌",
+  "must_order": [
+   "양꼬치",
+   "구운 옥수수·가지",
+   "생맥주"
+  ],
+  "price_cny": "80~130",
+  "rating": {
+   "google": "4.4 (43) 다푸루점 / 4.8 (25) 창리루점"
+  },
+  "evidence": "한국 블로그 3곳 이상 추천, 현지인도 대기",
+  "lat": 31.2355779,
+  "lng": 121.4747182
+ },
+ {
+  "cat": "food",
+  "name_en": "Shen Da Cheng",
+  "branch": "난징동루 636호",
+  "hours": "",
+  "closed": "",
+  "reservation": "불필요",
+  "queue": "칭퇀 시즌(3~4월) 줄",
+  "duration_min": 20,
+  "tips": "3월 하순 칭퇀(쑥떡) 제철. 난징동루 산책 중",
+  "sources": [
+   "https://www.google.com/maps/search/%E6%B2%88%E5%A4%A7%E6%88%90%20%E5%8D%97%E4%BA%AC%E4%B8%9C%E8%B7%AF"
+  ],
+  "id": "f27",
+  "sub": "디저트",
+  "name_ko": "선다청",
+  "name_zh": "沈大成",
+  "area": "와이탄·난징동루",
+  "oneliner": "1875년 노포, 칭퇀·떡 등 상하이 전통 간식",
+  "must_order": [
+   "칭퇀(青团)",
+   "탕위안",
+   "대만두 간식"
+  ],
+  "price_cny": "10~40",
+  "rating": {
+   "google": "3.9 (108)"
+  },
+  "evidence": "구글 108리뷰, 3월 칭퇀 시즌과 여행 일정 일치",
+  "lat": 31.23576,
+  "lng": 121.478316
+ },
+ {
+  "cat": "food",
+  "name_en": "Cheng Long Hang Crab Palace",
+  "branch": "주장루 216호",
+  "hours": "11:00 오픈",
+  "closed": "",
+  "reservation": "권장",
+  "queue": "예약 권장",
+  "duration_min": 90,
+  "tips": "털게 제철은 가을. 3월엔 셰펀 요리 위주",
+  "sources": [
+   "https://www.google.com/maps/search/Cheng%20Long%20Hang%20crab%20Shanghai"
+  ],
+  "id": "f28",
+  "sub": "파인다이닝",
+  "name_ko": "청룽항 셰왕푸",
+  "name_zh": "成隆行蟹王府",
+  "area": "와이탄·난징동루",
+  "oneliner": "상하이 게요리 명가, 게살 비빔밥·게살두부",
+  "must_order": [
+   "셰펀(蟹粉) 비빔밥",
+   "게살두부",
+   "게살 샤오롱바오"
+  ],
+  "price_cny": "500~800",
+  "rating": {
+   "google": "4.4 (357)"
+  },
+  "evidence": "구글 4.4(357), 게요리 전문 노포",
+  "lat": 31.236977,
+  "lng": 121.48597
+ },
+ {
+  "id": "s01",
+  "cat": "night",
+  "name_ko": "와이탄",
+  "name_zh": "外滩",
+  "name_en": "The Bund",
+  "area": "와이탄·난징동루",
+  "oneliner": "근대 서양건축 + 푸둥 스카이라인 대표 야경",
+  "ticket_cny": "무료",
+  "hours": "24시간 (경관조명 10~4월 약 18:00~22:00, 5~9월 약 19:00~23:00)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 90,
+  "best_time": "일몰~20:30 (3월은 동절기 조명 기준, 22시 전후 소등)",
+  "rating": {
+   "google": "4.7 (8,123)",
+   "other": "한국 블로그 3박4일 코스 거의 전부 1일차 야경 필수로 포함"
+  },
+  "evidence": "구글 리뷰 8천+ / 상하이시 한국어 공식 페이지가 한국인 '클래식 코스' 1순위로 소개",
+  "transport": "",
+  "lat": 31.2402611,
+  "lng": 121.490577,
+  "tips": "소등 시각은 공식 고시가 계절·행사마다 바뀜. 22시 전에 도착. 낮엔 북와이탄 뷰가 한적",
+  "sources": [
+   "https://www.google.com/maps/place/The+Bund/@31.2402611,121.490577",
+   "https://www.brivience.com/blog/the-bund-shanghai",
+   "https://korean.shanghai.gov.cn/ko-EditorsPick-travelinshanghai/20250113/3916eb013d5b407b936b6719dda4148c.html"
+  ],
+  "photo": "photos/s01.jpg"
+ },
+ {
+  "id": "s02",
+  "cat": "night",
+  "name_ko": "상하이타워 전망대(118층 상하이지전)",
+  "name_zh": "上海中心大厦 上海之巅观光厅",
+  "name_en": "Shanghai Tower - Top of Shanghai Observatory",
+  "area": "푸둥·루자쭈이",
+  "oneliner": "546m 중국 최고층 전망대, 루자쭈이 내려다보기",
+  "ticket_cny": "성인 180 (공휴일 199) / 125·126층 댐퍼 光影秀 포함 268",
+  "hours": "08:30~22:00 (마지막 입장 21:30, 일부 자료 21:00)",
+  "closed": "정기휴무 없음",
+  "reservation": "권장 (여권 실명 구매, 현장 구매 가능·주말은 사전 온라인 예매 권장)",
+  "duration_min": 90,
+  "best_time": "일몰 30분 전 입장 → 노을·야경 모두",
+  "rating": {
+   "google": "4.6 (3,406)"
+  },
+  "evidence": "구글 리뷰 3천+ / 한국 블로그 BEST10에서 3위로 소개",
+  "transport": "",
+  "lat": 31.233518,
+  "lng": 121.505618,
+  "tips": "흐리거나 미세먼지 낀 날은 시야 짧음, 당일 날씨 보고 결정. 전망대 1곳만 고르면 여기 추천이 다수",
+  "sources": [
+   "https://www.biwuke.com/40/zixuninfo/217.html",
+   "https://english.shanghai.gov.cn/en-FestivalsCelebrations/20250911/9502fe309abc41a9a2f61966e5725b6a.html",
+   "https://myshanghaiguide.com/shanghai-tower",
+   "https://m.blog.naver.com/walking_jm/224461285472"
+  ],
+  "photo": "photos/s02.jpg"
+ },
+ {
+  "id": "s03",
+  "cat": "sight",
+  "name_ko": "동방명주탑",
+  "name_zh": "东方明珠广播电视塔",
+  "name_en": "Oriental Pearl TV Tower",
+  "area": "푸둥·루자쭈이",
+  "oneliner": "상하이 상징 TV탑, 259m 유리바닥",
+  "ticket_cny": "두 구슬 패키지 약 199 (판매처에 따라 209 표기)",
+  "hours": "09:00~21:00 (마지막 입장 20:00, 판매처 기준)",
+  "closed": "정기휴무 없음(확인된 공지 없음)",
+  "reservation": "권장 (여권 실명, 온라인 예매 가능)",
+  "duration_min": 90,
+  "best_time": "오후 또는 외관은 와이탄 쪽 야경으로",
+  "rating": {
+   "google": "4.6 (7,730)"
+  },
+  "evidence": "구글 리뷰 7.7천 / 상하이시 한국어 페이지 한국인 인기 명소로 명시",
+  "transport": "",
+  "lat": 31.2396889,
+  "lng": 121.4997553,
+  "tips": "상하이타워와 둘 다 오를 필요는 적음. 외관 사진은 와이탄에서. 공식 요금표는 미확인(판매처 수치)",
+  "sources": [
+   "https://relaxinchina.com/travel-guide/oriental-pearl-tower",
+   "https://www.247tickets.com/t/oriental-pearl-tower",
+   "https://korean.shanghai.gov.cn/ko-EditorsPick-travelinshanghai/20250113/3916eb013d5b407b936b6719dda4148c.html"
+  ],
+  "photo": "photos/s03.jpg"
+ },
+ {
+  "id": "s04",
+  "cat": "night",
+  "name_ko": "황푸강 야간 유람선",
+  "name_zh": "浦江游览",
+  "name_en": "Huangpu River Night Cruise",
+  "area": "와이탄·난징동루",
+  "oneliner": "강 위에서 와이탄+푸둥 양쪽 야경 45분",
+  "ticket_cny": "성수기(2/26~11/25) 야간 150 / 주간 120 (스류푸 경전항로 보통석)",
+  "hours": "스류푸1호부두 11:00~ 마지막 편까지, 야간편 18:00 전후~21시대",
+  "closed": "없음(기상 악화 시 결항)",
+  "reservation": "권장 (현장 구매 가능, 주말 저녁은 미리)",
+  "duration_min": 60,
+  "best_time": "19:00~21:00 (양안 조명 켜진 시간)",
+  "rating": {
+   "google": "4.5 (394)"
+  },
+  "evidence": "상하이시 교통위 공식 요금표 / 한국 블로그 BEST10·3박4일 코스 단골",
+  "transport": "",
+  "lat": 31.2314,
+  "lng": 121.4943,
+  "tips": "여행일(3/19~22)은 성수기 요금 150위안. 싸게는 2위안 공공페리(东复线 21시경까지)",
+  "sources": [
+   "https://jtw.sh.gov.cn/pjl/index.html",
+   "https://english.shanghai.gov.cn/en-Individuals-Transportation-PublicTransport/20260813/474fc35ff5a54d51aeeb68b2cb981088.html",
+   "https://www.google.com/maps/search/Huangpu+River+Cruise+Shiliupu"
+  ],
+  "photo": "photos/s04.jpg"
+ },
+ {
+  "id": "s05",
+  "cat": "sight",
+  "name_ko": "난징동루 보행가",
+  "name_zh": "南京东路步行街",
+  "name_en": "Nanjing Road Pedestrian Street",
+  "area": "와이탄·난징동루",
+  "oneliner": "와이탄으로 이어지는 네온 쇼핑 거리",
+  "ticket_cny": "무료",
+  "hours": "24시간 (상점 약 10:00~22:00)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 60,
+  "best_time": "저녁 (와이탄 가기 전 동선)",
+  "rating": {
+   "google": "4.6 (2,448)"
+  },
+  "evidence": "구글 리뷰 2.4천 / 한국인 '클래식 코스'(상하이시 한국어 공식)",
+  "transport": "",
+  "lat": 31.234721,
+  "lng": 121.474898,
+  "tips": "숙소를 이 근처로 잡으면 야경 동선 최적 / 쇼핑: 주말 저녁 인파 매우 많음, 소매치기 주의. 제일백화점·미니소랜드·도원향 마사지가 이 거리에 있음",
+  "sources": [
+   "https://www.google.com/maps/search/Nanjing+Road+Pedestrian+Street",
+   "https://korean.shanghai.gov.cn/ko-EditorsPick-travelinshanghai/20250113/3916eb013d5b407b936b6719dda4148c.html",
+   "https://www.google.com/maps/search/Nanjing+Road+Pedestrian+Street+Shanghai"
+  ],
+  "tags": [
+   "shopping"
+  ],
+  "photo": "photos/s05.jpg"
+ },
+ {
+  "id": "s06",
+  "cat": "sight",
+  "name_ko": "예원(위위안) + 예원상가",
+  "name_zh": "豫园",
+  "name_en": "Yu Garden",
+  "area": "예원",
+  "oneliner": "명나라 정원 + 밤 조명 상가(무료)",
+  "ticket_cny": "정원 성인 30 (3월 비수기) / 성수기 40, 상가는 무료",
+  "hours": "정원 09:00~16:30 (16:00 입장마감)",
+  "closed": "월요일 휴원 (법정공휴일 제외) → 2027-03-22(월) 불가",
+  "reservation": "권장 (공식 미니프로그램 '上海豫园' 시간대 예매, 남/북문 창구도 있음)",
+  "duration_min": 120,
+  "best_time": "정원은 개장 직후 평일 오전 / 상가는 해 진 뒤 조명",
+  "rating": {
+   "google": "4.5 (5,833)"
+  },
+  "evidence": "구글 리뷰 5.8천 / 한국 블로그 BEST10 2위, '밤 상가가 정원보다 인기'",
+  "transport": "",
+  "lat": 31.2272355,
+  "lng": 121.492094,
+  "tips": "와이탄까지 도보 15~20분이라 저녁 상가→와이탄 야경 묶기 좋음 / 쇼핑: 기념품·차는 흥정 여지 있음. 정원(예원) 입장은 오후 일찍 마감되니 낮에 정원, 밤에 상가 순서 추천",
+  "sources": [
+   "https://www.yugarden.com.cn/page/articleView/message.html",
+   "https://wayschina.com/en/articles/yu-garden-guide",
+   "https://m.blog.naver.com/fevjj/223698110684",
+   "https://www.google.com/maps/search/Yu+Garden+Bazaar+Shanghai"
+  ],
+  "tags": [
+   "shopping"
+  ],
+  "photo": "photos/s06.jpg"
+ },
+ {
+  "id": "s07",
+  "cat": "sight",
+  "name_ko": "상하이박물관 동관(신관)",
+  "name_zh": "上海博物馆东馆",
+  "name_en": "Shanghai Museum East",
+  "area": "푸둥·루자쭈이",
+  "oneliner": "2024 개관, 청동기·도자기 중국 미술 통사",
+  "ticket_cny": "상설전 무료 (특별전·디지털관 별도)",
+  "hours": "10:00~18:00 (17:00 입장마감)",
+  "closed": "화요일 휴관 (국경일 제외) → 2027-03-23(화) 불가",
+  "reservation": "불필요 (개인 무예약, 여권 원본으로 B1 동문 입장. 디지털관·探索宫만 공식 미니프로그램 예약)",
+  "duration_min": 150,
+  "best_time": "평일 오전",
+  "rating": {
+   "google": "4.7 (185)"
+  },
+  "evidence": "공식 예약사이트 공지로 무예약 확인 / 구글 평점 4.7(신관이라 리뷰 수 적음) / 한국 블로그 BEST10 7위",
+  "transport": "",
+  "lat": 31.21949,
+  "lng": 121.54005,
+  "tips": "지하철 2호선 상하이과기관역 8번 출구. '무예약'은 시범 정책이라 출발 전 공지 재확인. 제3자 '입장권' 구매 금지",
+  "sources": [
+   "https://reservation.shanghaimuseum.net/",
+   "https://www.shanghai.gov.cn/pdwl/20260615/f8fd3ced45e642ea8bcd124139fe623c.html",
+   "https://english.shanghai.gov.cn/en-MuseumsGalleries/20241205/756c96bd7dd940378b9ac056f11429e2.html"
+  ],
+  "photo": "photos/s07.jpg"
+ },
+ {
+  "id": "s08",
+  "cat": "sight",
+  "name_ko": "상하이박물관 인민광장관(구관)",
+  "name_zh": "上海博物馆(人民广场馆)",
+  "name_en": "Shanghai Museum (People's Square)",
+  "area": "인민광장",
+  "oneliner": "여행 시기엔 미주 고대문명 특별전만 (유료)",
+  "ticket_cny": "148부터 (특별전 전용, 2026.7.9~2027.11.14)",
+  "hours": "09:00~17:00 (15:00 입장마감)",
+  "closed": "월요일 휴관 (국경일 제외)",
+  "reservation": "필수 (날짜·회차 지정 구매: 공식 미니프로그램 또는 해외방문객은 Trip.com)",
+  "duration_min": 120,
+  "best_time": "오전",
+  "rating": {
+   "google": "4.3 (1,346)"
+  },
+  "evidence": "공식 공지: 특별전 기간 다른 전시 없음, 전원 유료 → 일반 소장품은 동관에서",
+  "transport": "",
+  "lat": 31.2283307,
+  "lng": 121.4755278,
+  "tips": "우선순위 낮음. 중국 유물 보려면 동관으로 가야 함 (오래된 가이드 주의)",
+  "sources": [
+   "https://reservation.shanghaimuseum.net/",
+   "https://www.shanghaitourism.org/shanghai-museum-guide"
+  ],
+  "photo": "photos/s08.jpg"
+ },
+ {
+  "id": "s09",
+  "cat": "sight",
+  "name_ko": "우캉맨션·우캉루 (구 프랑스조계)",
+  "name_zh": "武康大楼 / 武康路",
+  "name_en": "Wukang Mansion & Wukang Road",
+  "area": "프랑스조계·우캉루",
+  "oneliner": "플라타너스 가로수길 시티워크·인생샷",
+  "ticket_cny": "무료",
+  "hours": "거리 24시간 (상점·카페 별도)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 120,
+  "best_time": "오전~오후 햇빛 좋을 때",
+  "rating": {
+   "google": "4.4 (822) 우캉맨션"
+  },
+  "evidence": "상하이시 한국어 공식: '우캉로 인생샷', 한국인 트렌드 코스 / 블로그 3박4일 코스 단골",
+  "transport": "",
+  "lat": 31.20448,
+  "lng": 121.438326,
+  "tips": "우캉맨션 앞 횡단보도 사진 → 우캉루·안푸루 카페 투어. 프랑스조계 산책을 이 항목으로 통합",
+  "sources": [
+   "https://www.google.com/maps/place/Wukang+Mansion/@31.20448,121.438326",
+   "https://korean.shanghai.gov.cn/ko-EditorsPick-travelinshanghai/20250113/3916eb013d5b407b936b6719dda4148c.html"
+  ],
+  "photo": "photos/s09.jpg"
+ },
+ {
+  "id": "s10",
+  "cat": "sight",
+  "name_ko": "톈쯔팡",
+  "name_zh": "田子坊",
+  "name_en": "Tianzifang",
+  "area": "신톈디·화이하이루",
+  "oneliner": "스쿠먼 골목 상점·카페·기념품",
+  "ticket_cny": "무료",
+  "hours": "상점 대략 10:00~22:00 (가게별 상이)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 90,
+  "best_time": "오후~저녁",
+  "rating": {
+   "google": "4.3 (2,137)"
+  },
+  "evidence": "구글 리뷰 2.1천 / 한국 블로그 BEST10 6위, 기념품 필수 코스",
+  "transport": "",
+  "lat": 31.208812,
+  "lng": 121.468898,
+  "tips": "상업화돼 호불호 있음(평점 4.3). 기념품 쇼핑 목적이면 OK / 쇼핑: 좁은 골목이라 주말 혼잡. 기념품 가격은 비교 후 구매. 신톈디와 택시 10분 내외로 묶기 좋음",
+  "sources": [
+   "https://www.google.com/maps/place/Tianzifang/@31.208812,121.468898",
+   "https://m.blog.naver.com/walking_jm/224461285472",
+   "https://www.google.com/maps/search/Tianzifang+Shanghai"
+  ],
+  "tags": [
+   "shopping"
+  ],
+  "photo": "photos/s10.jpg"
+ },
+ {
+  "id": "s11",
+  "cat": "sight",
+  "name_ko": "신톈디",
+  "name_zh": "新天地",
+  "name_en": "Xintiandi",
+  "area": "신톈디·화이하이루",
+  "oneliner": "스쿠먼 개조 펍·레스토랑 거리, 저녁 술자리",
+  "ticket_cny": "무료",
+  "hours": "상점별 상이",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 90,
+  "best_time": "저녁 (바·펍)",
+  "rating": {
+   "google": "4.6 (211)"
+  },
+  "evidence": "구글 단일 장소 평점 확인 못함 / 상하이시 한국어 공식 '트렌드 코스', 블로그 3박4일 코스 다수 포함",
+  "transport": "",
+  "lat": 31.2191884,
+  "lng": 121.4752537,
+  "tips": "대한민국 임시정부 청사와 도보권. 남자 3명 저녁 맥주 장소로 무난 / 쇼핑: 대한민국 임시정부청사 도보권. 근처 Sober Company·Speak Low와 저녁 바 투어로 연결 가능. 구글 대표 리스팅은 카테고리가 '주차장'으로 잘못 표기돼 리뷰 수가 적게 잡힘",
+  "sources": [
+   "https://korean.shanghai.gov.cn/ko-EditorsPick-travelinshanghai/20250113/3916eb013d5b407b936b6719dda4148c.html",
+   "https://m.blog.naver.com/fevjj/223698110684",
+   "https://www.google.com/maps/search/Xintiandi"
+  ],
+  "tags": [
+   "shopping"
+  ],
+  "photo": "photos/s11.jpg"
+ },
+ {
+  "id": "s12",
+  "cat": "sight",
+  "name_ko": "징안사",
+  "name_zh": "静安寺",
+  "name_en": "Jing'an Temple",
+  "area": "징안사",
+  "oneliner": "빌딩 숲 속 황금 사찰",
+  "ticket_cny": "50 (향 3개 포함)",
+  "hours": "07:30~17:00 (16:30경 입장마감)",
+  "closed": "없음",
+  "reservation": "불필요 (현장 구매)",
+  "duration_min": 60,
+  "best_time": "오후 / 금·토 18시부터 탑 조명",
+  "rating": {
+   "google": "4.5 (1,442)"
+  },
+  "evidence": "구글 리뷰 1.4천 평점 4.5",
+  "transport": "",
+  "lat": 31.2235188,
+  "lng": 121.445284,
+  "tips": "2026년 일부 보수공사 비계 있다는 후기. 외관은 육교(14번 출구)에서 무료로 촬영 가능",
+  "sources": [
+   "https://www.trip.com/guide/attraction/jing-an-temple-shanghai.html",
+   "https://us.trip.com/travel-guide/attraction/shanghai/jing-an-temple-75618",
+   "https://chinagotrip.com/destinations/shanghai/attractions/jing-an-temple"
+  ],
+  "photo": "photos/s12.jpg"
+ },
+ {
+  "id": "s13",
+  "cat": "sight",
+  "name_ko": "주자자오(주가각) 수향마을",
+  "name_zh": "朱家角古镇",
+  "name_en": "Zhujiajiao Ancient Town",
+  "area": "근교",
+  "oneliner": "지하철로 가는 상하이 시내 수향마을",
+  "ticket_cny": "마을 무료 / 3곳 통합권 60 (课植园 20 등)",
+  "hours": "마을 상시, 유료시설 08:30~17:00",
+  "closed": "없음",
+  "reservation": "불필요 (통합권은 당일 08:00까지 온라인 예매 후 종이표 수령)",
+  "duration_min": 240,
+  "best_time": "오전~오후, 평일",
+  "rating": {
+   "google": "4.4 (1,769)"
+  },
+  "evidence": "구글 리뷰 1.7천 / 한국 블로그 BEST10 8위, 3박4일 3일차 후보",
+  "transport": "훙차오역 → 지하철 17호선 주자자오역 (6위안), 역에서 도보 15분 또는 셔틀",
+  "lat": 31.1143702,
+  "lng": 121.053999,
+  "tips": "반나절. 근교 고속철 이동이 부담이면 수향마을 대안",
+  "sources": [
+   "https://english.shanghai.gov.cn/en-ScenicSpots/20261119/62cefa233b124fc9993905897b6f89b4.html",
+   "https://www.zhujiajiao.com/en/traffic",
+   "https://goasia.cc/en/article/zhujiajiao-water-town"
+  ],
+  "photo": "photos/s13.jpg"
+ },
+ {
+  "id": "s14",
+  "cat": "daytrip",
+  "name_ko": "쑤저우 졸정원",
+  "name_zh": "拙政园",
+  "name_en": "Humble Administrator's Garden (Suzhou)",
+  "area": "근교",
+  "oneliner": "중국 4대 정원·세계유산 쑤저우 대표 원림",
+  "ticket_cny": "70 (3월 비수기) / 성수기 80",
+  "hours": "3~10월 07:30~17:30 (17:00 입장마감)",
+  "closed": "없음",
+  "reservation": "필수 (실명·시간대 예약, 공식 위챗 '苏州园林旅游'에서 1~7일 전, 여권 원본 지참)",
+  "duration_min": 120,
+  "best_time": "개장 직후 오전",
+  "rating": {
+   "google": "4.4 (3,095)"
+  },
+  "evidence": "구글 리뷰 3천+ / 한국 블로그 '근교는 쑤저우 vs 항저우' 단골",
+  "transport": "상하이 훙차오역/상하이역 → 쑤저우역 고속철 약 21~30분, 2등석 약 31~46위안 (하루 200편+)",
+  "lat": 31.324224,
+  "lng": 120.62997,
+  "tips": "당일치기. 옆 쑤저우박물관은 별도 예약. 핑장루와 같은 날 묶기",
+  "sources": [
+   "https://ylj.suzhou.gov.cn/szsylj/mpjg/wztt.shtml",
+   "https://suzhou.bendibao.com/tour/2024929/ly126452.shtm",
+   "https://chinafortravelers.com/guides/shanghai-to-suzhou"
+  ],
+  "photo": "photos/s14.jpg"
+ },
+ {
+  "id": "s15",
+  "cat": "daytrip",
+  "name_ko": "쑤저우 핑장루 역사거리",
+  "name_zh": "平江路历史街区",
+  "name_en": "Pingjiang Road (Suzhou)",
+  "area": "근교",
+  "oneliner": "운하 따라 걷는 옛 거리, 저녁 분위기",
+  "ticket_cny": "무료 (유람선 별도)",
+  "hours": "상시",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 90,
+  "best_time": "오후~해질녘",
+  "rating": {
+   "google": "4.5 (226)"
+  },
+  "evidence": "구글 4.5 (리뷰 226, 외국인 리뷰 적음)",
+  "transport": "졸정원에서 도보·택시 10분 내 (쑤저우 당일치기와 동일)",
+  "lat": 31.309589,
+  "lng": 120.634804,
+  "tips": "졸정원(오전) → 핑장루(오후) → 저녁 고속철 복귀가 정석",
+  "sources": [
+   "https://www.google.com/maps/search/Pingjiang+Historic+Block+Suzhou"
+  ],
+  "photo": "photos/s15.jpg"
+ },
+ {
+  "id": "s16",
+  "cat": "daytrip",
+  "name_ko": "항저우 서호",
+  "name_zh": "西湖",
+  "name_en": "West Lake (Hangzhou)",
+  "area": "근교",
+  "oneliner": "세계유산 호수, 쑤디 제방 산책·유람선",
+  "ticket_cny": "무료 (유람선 별도)",
+  "hours": "상시",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 240,
+  "best_time": "오전~일몰",
+  "rating": {
+   "google": "4.7 (1,216)"
+  },
+  "evidence": "구글 4.7 / 상하이발 최고 인기 당일치기 노선(하루 200편+)",
+  "transport": "상하이 훙차오역 → 항저우동역 고속철 약 45분~1시간, 2등석 약 57~87위안 → 지하철 1호선 20분",
+  "lat": 30.2479326,
+  "lng": 120.1502699,
+  "tips": "당일치기 가능하나 영은사·룽징까지면 1박 권장. 항저우'서'역 아닌 '동'역으로",
+  "sources": [
+   "https://chinafortravelers.com/guides/shanghai-to-hangzhou",
+   "https://www.sinowander.com/blog/44-hangzhou-day-trip-from-shanghai"
+  ],
+  "photo": "photos/s16.jpg"
+ },
+ {
+  "id": "s17",
+  "cat": "daytrip",
+  "name_ko": "항저우 영은사·비래봉",
+  "name_zh": "灵隐寺·飞来峰",
+  "name_en": "Lingyin Temple & Feilai Feng",
+  "area": "근교",
+  "oneliner": "1600년 선종 고찰 + 석굴 마애불",
+  "ticket_cny": "무료 (2025-12-01부터 75위안 폐지)",
+  "hours": "07:30~17:30 (17:00 입장마감)",
+  "closed": "없음",
+  "reservation": "필수 (미니프로그램 '杭州灵隐飞来峰' 7일 전 08:00 오픈, 당일예약·현장창구 없음, 여권 가능)",
+  "duration_min": 150,
+  "best_time": "오전 (08시 이후 택시 진입 통제)",
+  "rating": {
+   "google": "4.6 (1,220)"
+  },
+  "evidence": "구글 4.6 / 2026-11 기준 무료·예약제 다수 자료 일치",
+  "transport": "서호에서 버스·택시 약 30분 (지하철 없음)",
+  "lat": 30.240831,
+  "lng": 120.101482,
+  "tips": "주말은 3~4일 전 예약. 노쇼 30일 내 3회면 예약 제한",
+  "sources": [
+   "https://chinafortravelers.com/guides/lingyin-temple-hangzhou",
+   "https://m.ly.com/trip/detail/6029657"
+  ],
+  "photo": "photos/s17.jpg"
+ },
+ {
+  "id": "s18",
+  "cat": "daytrip",
+  "name_ko": "항저우 룽징(용정) 차밭마을",
+  "name_zh": "龙井村",
+  "name_en": "Longjing Tea Village",
+  "area": "근교",
+  "oneliner": "서호 용정차 산지, 차밭 뷰 찻집",
+  "ticket_cny": "무료 (차 시음·구매 별도)",
+  "hours": "상시",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 120,
+  "best_time": "3월 하순~4월 초 명전차 시즌 (여행 시기와 겹침)",
+  "rating": {
+   "google": "4.5 (77) 龙井山公园 기준"
+  },
+  "evidence": "구글 리뷰 수 적음(근거 약함) / 항저우 2일 일정 가이드에 단골",
+  "transport": "서호·영은사에서 택시 약 20~30분",
+  "lat": 30.2188695,
+  "lng": 120.10552,
+  "tips": "마을 호객 차 판매 주의. 1박 시 2일차 추천",
+  "sources": [
+   "https://www.sinowander.com/blog/44-hangzhou-day-trip-from-shanghai",
+   "https://www.google.com/maps/search/Longjing+Tea+Village"
+  ],
+  "photo": "photos/s18.jpg"
+ },
+ {
+  "id": "s19",
+  "cat": "daytrip",
+  "name_ko": "우전 시짜(서책) 야경",
+  "name_zh": "乌镇西栅",
+  "name_en": "Wuzhen Xizha",
+  "area": "근교",
+  "oneliner": "밤 조명 운하 수향, 수향마을 중 완성도 최고",
+  "ticket_cny": "150 (17시 이후 야간권 120, 동·서책 통합 190)",
+  "hours": "낮~밤 (야간 개방, 정확한 폐장시각 미확인)",
+  "closed": "없음",
+  "reservation": "권장 (공식/여행앱 예매, 여권)",
+  "duration_min": 300,
+  "best_time": "오후 3시 입장 → 일몰 전후 40분",
+  "rating": {
+   "google": "4.8 (282) 'Wuzhen Scenic Area' 기준(동·서책 구분 불명)"
+  },
+  "evidence": "한국 블로그 3박4일 3일차 후보(디즈니/우전/주가각) / 구글 4.8",
+  "transport": "훙차오역 → 퉁샹역 고속철 약 33~50분, 2등석 약 56위안 → K282 버스 약 40~60분 또는 택시 60~80위안 / 또는 훙차오 장거리서역 직행버스 55위안 약 1시간40분(하루 4편)",
+  "lat": 30.74801,
+  "lng": 120.491854,
+  "tips": "1박 강력 권장(시짜 내부 숙박 시 재입장 무제한). 당일치기면 막차·K282 야간편 확인",
+  "sources": [
+   "http://www.wuzhen.com.cn/web/traver/info",
+   "https://www.trip.com/guide/attraction/wuzhen.html",
+   "https://chinatravel.city/transport/shanghai-hangzhou-to-wuzhen",
+   "https://www.asiaodysseytravel.com/zhejiang/shanghai-to-wuzhen.html"
+  ],
+  "photo": "photos/s19.jpg"
+ },
+ {
+  "id": "s20",
+  "cat": "daytrip",
+  "name_ko": "저우좡(주장) 수향",
+  "name_zh": "周庄古镇",
+  "name_en": "Zhouzhuang",
+  "area": "근교",
+  "oneliner": "'중국 제1수향' 원조 운하마을",
+  "ticket_cny": "80 (2026-07-09부터 8할 정책, 3일 연속 이용 등록제)",
+  "hours": "08:00~21:00 (개별 관 상이)",
+  "closed": "없음",
+  "reservation": "불필요 (공식 '周庄旅游' 미니프로그램 또는 현장)",
+  "duration_min": 240,
+  "best_time": "평일 오전",
+  "rating": {
+   "google": "4.5 (179)"
+  },
+  "evidence": "구글 리뷰 179 (근거 약함) / 공식 요금 확인",
+  "transport": "훙차오역 → 쿤산남역 고속철 (약 25위안) → 133번 버스 / 또는 상하이남 버스터미널 직행 약 35위안 약 90분",
+  "lat": 31.124254,
+  "lng": 120.845657,
+  "tips": "우전·주자자오와 성격 겹침. 수향은 1곳만 고르는 게 효율적",
+  "sources": [
+   "https://www.zhouzhuang.net/service_7.html",
+   "https://www.shanghaitourism.org/day-trips-from-shanghai"
+  ],
+  "photo": "photos/s20.jpg"
+ },
+ {
+  "id": "s21",
+  "cat": "daytrip",
+  "name_ko": "퉁리(동리) 수향",
+  "name_zh": "同里古镇",
+  "name_en": "Tongli",
+  "area": "근교",
+  "oneliner": "세계유산 퇴사원, 한적한 수향",
+  "ticket_cny": "80 (공식플랫폼, 중국신분증 기준) / 여권은 현장 100 예상",
+  "hours": "08:00~17:15",
+  "closed": "없음",
+  "reservation": "불필요 (현장 창구)",
+  "duration_min": 180,
+  "best_time": "평일 오전",
+  "rating": {
+   "google": "4.6 (205)"
+  },
+  "evidence": "구글 리뷰 205 (근거 약함)",
+  "transport": "쑤저우역까지 고속철 약 30분(약 40위안) → 지하철 4호선 종점 퉁리역 약 50분 → 725번 버스 15분",
+  "lat": 31.15777,
+  "lng": 120.71896,
+  "tips": "쑤저우 1박 시 덧붙이는 용도. 상하이 당일치기로는 비효율",
+  "sources": [
+   "https://m.suzhou.bendibao.com/tour/112999.shtm",
+   "https://ruqintravel.com/china-destination-guides/tongli-town",
+   "https://www.brivience.com/blog/day-trips-from-shanghai"
+  ],
+  "photo": "photos/s21.jpg"
+ },
+ {
+  "id": "s22",
+  "cat": "daytrip",
+  "name_ko": "치바오 옛거리",
+  "name_zh": "七宝古镇",
+  "name_en": "Qibao Ancient Town",
+  "area": "근교",
+  "oneliner": "지하철 9호선 반나절 먹거리 옛거리",
+  "ticket_cny": "무료 (실내 관 통합권 30)",
+  "hours": "상시 (실내 관 주간)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 150,
+  "best_time": "저녁 등 켜질 무렵",
+  "rating": {
+   "google": "4.2 (778)"
+  },
+  "evidence": "구글 4.2로 후보 중 낮은 편",
+  "transport": "지하철 9호선 치바오역 2번 출구 도보 5~10분",
+  "lat": 31.1540787,
+  "lng": 121.3537687,
+  "tips": "작고 상업적. 주자자오가 상위호환이라 우선순위 낮음",
+  "sources": [
+   "https://www.shanghaitourism.org/qibao-ancient-town",
+   "https://www.travelchinaguide.com/attraction/shanghai/qibao-ancient-town.htm"
+  ],
+  "photo": "photos/s22.jpg"
+ },
+ {
+  "id": "s23",
+  "cat": "daytrip",
+  "name_ko": "상하이 디즈니랜드 (옵션)",
+  "name_zh": "上海迪士尼乐园",
+  "name_en": "Shanghai Disneyland",
+  "area": "근교",
+  "oneliner": "주토피아 랜드 있는 디즈니, 하루 통째",
+  "ticket_cny": "날짜별 475~799 (3월은 보통 475~539, 3자 자료)",
+  "hours": "날짜별 상이 (대체로 08:30~21:30, 공식 미확인)",
+  "closed": "없음",
+  "reservation": "필수 (날짜 지정 실명 예매, 여권 원본. 10일 전 얼리버드 50위안 할인)",
+  "duration_min": 600,
+  "best_time": "평일 개장 전 도착",
+  "rating": {
+   "google": "4.5 (3,835)"
+  },
+  "evidence": "구글 리뷰 3.8천 / 한국 블로그 BEST10 9위·3박4일 3일차 후보",
+  "transport": "지하철 11호선 디즈니역(종점), 시내에서 약 50분",
+  "lat": 31.1433969,
+  "lng": 121.6578713,
+  "tips": "남자 3명 3박이면 시간 대비 효율 낮음. 금(3/19)·월(3/22) 평일이 저렴",
+  "sources": [
+   "https://www.shanghaidisneyresort.com/en/commerce/product?id=ThemePark",
+   "https://travelwishlists.com/destinations/shanghai/disneyland-tickets/",
+   "https://chinaroutesguide.com/shanghai-disneyland"
+  ],
+  "photo": "photos/s23.jpg"
+ },
+ {
+  "id": "m04",
+  "cat": "shopping",
+  "name_ko": "상하이 IFC몰",
+  "name_zh": "上海国金中心商场",
+  "name_en": "Shanghai IFC Mall",
+  "area": "푸둥·루자쭈이",
+  "oneliner": "루자쭈이 대표 럭셔리몰, 리츠칼튼·플레어와 연결",
+  "price_cny": "무료(쇼핑 별도)",
+  "hours": "대체로 10:00~22:00 (미확인)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 90,
+  "best_time": "오후 쇼핑 후 58층 플레어 루프탑 일몰로 연결",
+  "rating": {
+   "google": "4.4 (1,265)"
+  },
+  "evidence": "구글맵 4.4·리뷰 1,265건, 한국 블로그 3박4일 코스에 IFC몰 쇼핑·맥주 등장",
+  "lat": 31.236862,
+  "lng": 121.501858,
+  "tips": "루자쭈이역 지하 직결. 같은 건물(리츠칼튼 58F)에 Flair 루프탑",
+  "sources": [
+   "https://www.google.com/maps/search/Shanghai+IFC+Mall",
+   "https://blog.naver.com/PostView.naver?blogId=sumincc&logNo=224472039679"
+  ]
+ },
+ {
+  "id": "m06",
+  "cat": "shopping",
+  "name_ko": "싱예 타이쿠후이 + 스타벅스 리저브 로스터리",
+  "name_zh": "兴业太古汇 / 星巴克臻选上海烘焙工坊",
+  "name_en": "HKRI Taikoo Hui & Starbucks Reserve Roastery",
+  "area": "징안사",
+  "oneliner": "난징시루 고급몰 + 세계 최대급 스타벅스 로스터리",
+  "price_cny": "커피 약 50~100 (미확인)",
+  "hours": "몰 대체로 10:00~22:00 (미확인)",
+  "closed": "없음",
+  "reservation": "불필요",
+  "duration_min": 90,
+  "best_time": "평일 오전~오후(로스터리 대기 짧음)",
+  "rating": {
+   "google": "몰 4.6 (236)",
+   "other": "스타벅스 리저브 로스터리 구글 4.6 (859)"
+  },
+  "evidence": "몰 구글 4.6·236건, 같은 단지 스타벅스 로스터리 4.6·859건으로 관광객 방문 많음",
+  "lat": 31.230714,
+  "lng": 121.462745,
+  "tips": "로스터리는 주말 줄이 김. 징안사 사원과 도보권. 대체 후보: 헝룽광장(Plaza 66) 구글 4.2 (121)",
+  "sources": [
+   "https://www.google.com/maps/search/HKRI+Taikoo+Hui+Shanghai",
+   "https://www.google.com/maps/search/Starbucks+Reserve+Roastery+Shanghai"
+  ]
+ },
+ {
+  "id": "m07",
+  "cat": "nightlife",
+  "name_ko": "플레어 루프탑 (리츠칼튼 푸둥 58층)",
+  "name_zh": "FLAIR 斐霓丝顶层餐厅酒吧",
+  "name_en": "Flair Rooftop, The Ritz-Carlton Shanghai Pudong",
+  "area": "푸둥·루자쭈이",
+  "oneliner": "동방명주를 코앞에 둔 58층 루프탑 바",
+  "price_cny": "칵테일 130~ / 실내 테이블 2인 최소소비 1,680~",
+  "hours": "디너·바 일~목 17:30~01:00, 금·토 17:30~02:00",
+  "closed": "없음",
+  "reservation": "필수",
+  "duration_min": 90,
+  "best_time": "일몰 약 60~90분 전 입장(3월 하순 일몰 18시 전후)",
+  "rating": {
+   "google": "4.0 (233)"
+  },
+  "evidence": "구글 4.0·233건, 루프탑 가이드들이 상하이 대표 뷰 루프탑으로 선정",
+  "lat": 31.2359135,
+  "lng": 121.5059623,
+  "tips": "스마트캐주얼: 남성 반바지·민소매·슬리퍼 불가. 테라스석은 패키지 최소소비가 높으니 예약 시 확인. 18세 이상만",
+  "sources": [
+   "https://www.flairrooftopbarshanghai.com/",
+   "https://localshanghai.com/best-rooftop-bars-shanghai/",
+   "https://www.google.com/maps/search/Flair+Rooftop+Ritz-Carlton+Pudong"
+  ]
+ },
+ {
+  "id": "m08",
+  "cat": "nightlife",
+  "name_ko": "뷰 바 (하얏트 온 더 번드 32~33층)",
+  "name_zh": "VUE酒吧 (外滩茂悦大酒店)",
+  "name_en": "VUE Bar, Hyatt on the Bund",
+  "area": "와이탄·난징동루",
+  "oneliner": "와이탄·푸둥 양쪽이 다 보이는 북와이탄 루프탑",
+  "price_cny": "칵테일 100~150",
+  "hours": "월~목·일 17:00~01:30, 금·토 17:00~02:00",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 90,
+  "best_time": "일몰~21시, 날씨 좋은 날 야외 테라스",
+  "rating": {
+   "google": "4.1 (163)",
+   "other": "호텔 구글 4.1 (502)"
+  },
+  "evidence": "구글 4.1·163건, 루프탑 가이드 상하이 베스트 리스트에 지속 선정",
+  "lat": 31.2455237,
+  "lng": 121.4933637,
+  "tips": "스마트캐주얼. 야외 자쿠지가 명물. 와이탄 북단이라 난징동루에서 택시 이동 권장",
+  "sources": [
+   "https://www.hyatt.com/grand-hyatt/en-US/shang-hyatt-on-the-bund-shanghai/dining",
+   "https://www.therooftopguide.com/rooftop-bars-in-shanghai/vue-bar-at-the-hyatt-on-the-bund.html",
+   "https://www.google.com/maps/search/VUE+Bar+Hyatt+on+the+Bund"
+  ]
+ },
+ {
+  "id": "m09",
+  "cat": "nightlife",
+  "name_ko": "바 루즈 (번드18 7층)",
+  "name_zh": "Bar Rouge (外滩十八号)",
+  "name_en": "Bar Rouge, Bund 18",
+  "area": "와이탄·난징동루",
+  "oneliner": "와이탄 정중앙 테라스, 주말 DJ 파티 바",
+  "price_cny": "칵테일 120~180 / 맥주 60~100 / 테이블 최소소비 2,000~5,000",
+  "hours": "매일 18:00~02:00, 주말 22시부터 DJ",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 120,
+  "best_time": "금·토 22시 이후(파티), 조용히는 평일 20시대",
+  "rating": {
+   "google": "4.0 (371)"
+  },
+  "evidence": "구글 4.0·371건, 해외 나이트라이프 가이드가 상하이 대표 루프탑으로 소개",
+  "lat": 31.238422,
+  "lng": 121.489669,
+  "tips": "주말엔 테이블 최소소비가 큼, 스탠딩은 부담 적음. 스마트캐주얼",
+  "sources": [
+   "https://thediscreetgentleman.com/countries/china/shanghai/the-bund-huangpu",
+   "https://www.google.com/maps/search/Bar+Rouge+Bund+18+Shanghai"
+  ]
+ },
+ {
+  "id": "m10",
+  "cat": "nightlife",
+  "name_ko": "페어몬트 피스호텔 재즈바",
+  "name_zh": "和平饭店老年爵士乐队酒吧",
+  "name_en": "The Jazz Bar, Fairmont Peace Hotel",
+  "area": "와이탄·난징동루",
+  "oneliner": "1929년 아르데코 호텔, 올드재즈밴드 라이브",
+  "price_cny": "1인 최소소비 418(음식·음료 사용) / 칵테일 118~",
+  "hours": "17:00~02:00, 라이브 약 19:00~23:30",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 90,
+  "best_time": "19시 첫 세트 시작 전 입장",
+  "rating": {
+   "google": "4.1 (90)",
+   "other": "호텔 구글 4.6 (998)"
+  },
+  "evidence": "구글 4.1·90건, 1980년부터 이어진 올드재즈밴드로 상하이 필수 코스로 꼽힘",
+  "lat": 31.2390388,
+  "lng": 121.4895427,
+  "tips": "최소소비는 출처별로 200~418위안까지 차이(2025-06 NOMFLUENCE 418) → 예약 시 확인. 좌표는 호텔 기준",
+  "sources": [
+   "https://rachelgouk.com/shanghai-must-do-old-jazz-band-at-the-fairmont-peace-hotel",
+   "https://opentravelguide.com/china/shanghai/shanghai/nightlife/the-jazz-bar-at-fairmont-peace-hotel",
+   "https://www.google.com/maps/search/Fairmont+Peace+Hotel+Jazz+Bar"
+  ]
+ },
+ {
+  "id": "m11",
+  "cat": "nightlife",
+  "name_ko": "스피크 로우",
+  "name_zh": "彼楼 Speak Low",
+  "name_en": "Speak Low",
+  "area": "프랑스조계·우캉루",
+  "oneliner": "바 도구숍 책장 뒤 숨은 4층 스피크이지",
+  "price_cny": "칵테일 2층 85~130 / 3층 100~220, 1인 평균 약 220",
+  "hours": "일~목 18:00~01:30, 금·토 18:00~02:30",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 90,
+  "best_time": "평일 또는 21시 이전(주말 대기)",
+  "rating": {
+   "google": "4.6 (185)",
+   "other": "Asia's 50 Best Bars 최고 2위(2016), World's 50 Best 10위(2017), 2021 Asia 50위"
+  },
+  "evidence": "구글 4.6·185건, 아시아 50 베스트 바 2위·월드 10위 이력의 상하이 칵테일 대표",
+  "lat": 31.214839,
+  "lng": 121.465899,
+  "tips": "입구는 OCHO 매장 안 책장 문. 시그니처 'Speak Low'(말차·럼) 추천. 스마트캐주얼, 반바지·슬리퍼 지양. 2025년 Asia's 50 Best 순위에는 없음",
+  "sources": [
+   "https://localshanghai.com/speak-low-shanghai",
+   "https://barmagazine.com/best-bars/shanghai",
+   "https://rachelgouk.com/award-winning-cocktail-bars-in-shanghai/",
+   "https://www.google.com/maps/search/Speak+Low+Shanghai+Fuxing+Road"
+  ]
+ },
+ {
+  "id": "m12",
+  "cat": "nightlife",
+  "name_ko": "소버 컴퍼니",
+  "name_zh": "Sober Company",
+  "name_en": "Sober Company",
+  "area": "신톈디·화이하이루",
+  "oneliner": "중국 식재료 칵테일, 아시아 50베스트 2025 랭크",
+  "price_cny": "칵테일 95~180 (출처별 상이)",
+  "hours": "매일 12:00~02:00 (바는 저녁 위주)",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 90,
+  "best_time": "20~22시",
+  "rating": {
+   "google": "4.7 (56)",
+   "other": "Asia's 50 Best Bars 2025 #81 (2021 #5, World's 50 Best 2021 #39)"
+  },
+  "evidence": "Asia's 50 Best Bars 2025 81위, 구글 4.7·56건, 스피크로우와 같은 SG그룹",
+  "lat": 31.218912,
+  "lng": 121.469811,
+  "tips": "주소 雁荡路109号(신톈디 도보권). 건물 안 숨은 바 'Tipsy'도 있음. 대체 후보: Union Trading Company(2025 #? 미확인, 구글 4.5/24), Pony Up(2025 #97)",
+  "sources": [
+   "https://www.theworlds50best.com/stories/News/asias-50-best-bars-2025-51-100-list.html",
+   "https://hungrygowhere.com/food-news/asias-50-best-bars-2025-list",
+   "https://www.the50.com/discovery/Establishments/China/Shanghai/Sober-Company.html",
+   "https://www.google.com/maps/search/Sober+Company+Shanghai"
+  ]
+ },
+ {
+  "id": "m13",
+  "cat": "massage",
+  "name_ko": "도원향 발마사지 (1호점)",
+  "name_zh": "桃源乡足道(南京东路店)",
+  "name_en": "Taoyuanxiang Foot Massage",
+  "area": "와이탄·난징동루",
+  "oneliner": "한국인 원픽 난징동루 발마사지, 쑥통 코스 유명",
+  "price_cny": "발마사지 60분 198 / 쑥통 발 70분 268 / 전신 60분 238 / 아로마 60분 328",
+  "hours": "12:00~24:00 (마지막 예약 23:00)",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 70,
+  "best_time": "관광 마친 21~23시",
+  "rating": {
+   "google": "4.9 (619)"
+  },
+  "evidence": "구글 4.9·619건(상하이 마사지 중 최상위), 한국 블로그 다수 '손님 대부분 한국인'",
+  "lat": 31.2357284,
+  "lng": 121.4809348,
+  "tips": "1호점 南京东路505号 래디슨 컬렉션 4층, 2호점 제일백화점 7층. 클룩·마이리얼트립 사전예약이 현장가보다 저렴(약 3.3~4.5만원). 한국어 응대 가능, 3인 같은 방 요청 가능",
+  "sources": [
+   "https://m.blog.naver.com/mister__travel/224232885957",
+   "https://m.blog.naver.com/harihari__/224441799262",
+   "https://www.google.com/maps/search/桃源乡+南京东路"
+  ]
+ },
+ {
+  "id": "m14",
+  "cat": "massage",
+  "name_ko": "캉다오 마사지 (난징동루점)",
+  "name_zh": "康道推拿足道",
+  "name_en": "Kang Dao Massage Club",
+  "area": "와이탄·난징동루",
+  "oneliner": "24시간·리클라이너·프라이빗룸, 어깨 집중형",
+  "price_cny": "발마사지 60분 약 209 (사전예약 발 3.3만원·발+전신 90분 5.2만원대)",
+  "hours": "24시간 (남경로점 기준)",
+  "closed": "없음",
+  "reservation": "권장",
+  "duration_min": 90,
+  "best_time": "늦은 밤(24시간 운영)",
+  "rating": {
+   "google": "4.0 (24) — 한커우루 지점"
+  },
+  "evidence": "한국 블로그에서 도원향과 함께 가장 많이 비교되는 곳, 구글 리뷰는 적음(4.0·24건)",
+  "lat": 31.2336981,
+  "lng": 121.4771249,
+  "tips": "인기 지점은 南京东路489 미니소랜드 건물 4번 입구 10층(구글 미등록), 좌표는 한커우루 698 지점. 현장 오일 추가 권유 후기 있음 → 사전예약 시 팁 포함",
+  "sources": [
+   "https://blog.naver.com/PostView.naver?blogId=nomu0705&logNo=224417171248",
+   "https://ursweetdreams.tistory.com/134",
+   "https://www.google.com/maps/search/Kang+Dao+Massage+Club+Shanghai"
+  ]
+ },
+ {
+  "id": "p01",
+  "cat": "sight",
+  "sub": "역사",
+  "name_ko": "대한민국 임시정부 청사",
+  "name_zh": "大韩民国临时政府旧址",
+  "name_en": "Former Site of the Provisional Government of the Republic of Korea",
+  "area": "신톈디·화이하이루",
+  "oneliner": "신톈디 옆, 한국인이라면 한 번은 들르는 곳",
+  "ticket_cny": "20",
+  "hours": "평일 09:00~11:30, 13:30~17:00 / 주말 09:00~17:00 (매표 16:30 마감)",
+  "closed": "정기휴관 없음이 다수 (월요일 휴관이라는 글도 있어 방문 전 확인)",
+  "reservation": "불필요",
+  "duration_min": 40,
+  "best_time": "오전 9시 개관 직후 또는 13:30 재개관 직후",
+  "rating": {
+   "google": "4.7 (598)"
+  },
+  "evidence": "구글 4.7(598), 한국 블로그 상하이 필수 코스 단골, 신톈디역 6번 출구 도보 2분",
+  "lat": 31.21862,
+  "lng": 121.47546,
+  "tips": "평일 점심시간(11:30~13:30) 입장 불가. 내부 촬영 금지. 신톈디와 묶으면 동선 좋음",
+  "sources": [
+   "https://kr.trip.com/moments/detail/shanghai-2-145615983",
+   "https://m.blog.naver.com/nomu0705/224037146423"
+  ]
+ },
+ {
+  "id": "p02",
+  "cat": "night",
+  "sub": "공연",
+  "name_ko": "ERA 시공의 여행2 (서커스)",
+  "name_zh": "ERA 时空之旅2 (上海马戏城)",
+  "name_en": "ERA - Intersection of Time 2, Shanghai Circus World",
+  "area": "기타",
+  "oneliner": "상하이 대표 서커스·곡예 공연, 저녁 일정용",
+  "ticket_cny": "361~880",
+  "hours": "화~금 19:30 / 토·일 14:00, 19:30 (약 90분)",
+  "closed": "월요일 공연 없음",
+  "reservation": "권장 (공식 사이트·트립닷컴)",
+  "duration_min": 100,
+  "best_time": "저녁",
+  "rating": {
+   "google": "4.5 (232)"
+  },
+  "evidence": "구글 4.5(232), 2005년부터 이어진 상하이 대표 공연, 한국 여행사 상품 다수",
+  "lat": 31.28033,
+  "lng": 121.45185,
+  "tips": "지하철 1호선 상하이마시청역 바로 앞. 시내 중심에서 북쪽이라 이동 20~30분. 공연 회차·가격은 날짜별로 다르니 예매 화면에서 확인",
+  "sources": [
+   "https://www.shanghaimaxicheng.com/ko/era-dingpiao.html",
+   "https://www.travelforest.co.kr/tours/4523"
+  ]
+ }
+]

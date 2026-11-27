@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>2027 상하이 3박4일</title>
+<link rel="stylesheet" href="css/app.css">
+<link rel="preconnect" href="https://www.gstatic.com">
+<link rel="preconnect" href="https://firestore.googleapis.com">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <a href="#home" class="brand">2027 상하이 3박4일</a>
+    <div class="top-actions">
+      <span id="conn" aria-live="polite"></span>
+      <button type="button" class="btn small" id="who" data-act="who">나는 누구?</button>
+      <button type="button" class="btn small" data-act="share">링크 복사</button>
+    </div>
+  </div>
+</header>
+<main id="main" class="wrap"></main>
+<footer class="wrap foot"><small id="ver"></small></footer>
+<nav id="nav" class="tabbar" aria-label="섹션"></nav>
+<div id="modal" class="modal" hidden></div>
+<div id="toast" class="toast" role="status" hidden></div>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
